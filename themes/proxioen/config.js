@@ -7,8 +7,8 @@ const CONFIG = {
 
   // 英雄区块导航
   PROXIO_HERO_ENABLE: true, // 开启英雄区
-  PROXIO_HERO_TITLE_1: '作为市场与文化的桥梁，将宏伟蓝图转化为标志性现实', // 英雄区文字
-  PROXIO_HERO_TITLE_2: '并为开发项目直接对接庞大的中国投资群体，提供跨越项目全生命周期的整合服务,成倍放大您的价值', // 英雄区文字
+  PROXIO_HERO_TITLE_1: 'to serve as a bridge between markets and cultures—translating ambitious blueprints into iconic realities', // 英雄区文字
+  PROXIO_HERO_TITLE_2: 'We also connect development projects directly with the vast Chinese investment community, providing integrated services across the entire project lifecycle to exponentially amplify your value.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   PROXIO_HERO_BUTTON_1_TEXT: '查看案例', // 英雄区按钮
   PROXIO_HERO_BUTTON_1_URL: '#', // 英雄区按钮
